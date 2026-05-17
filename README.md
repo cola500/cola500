@@ -39,7 +39,7 @@ De pinnade repona är valda för att tillsammans visa det jag jobbar med, inte f
 | [`CampfireVR`](https://github.com/cola500/CampfireVR) | AI som styr Unity-editorn över MCP — tunna slices av en samtal-vid-lägereldsapp i Quest 3. |
 | [`process-drawer`](https://github.com/cola500/process-drawer) | Minimal processritare i en HTML-fil — hela poängen är hur liten den behöver vara. |
 
-Övriga repos är experiment, prototyper för verkliga uppdrag, eller småverktyg för familj och föreningar.
+Övriga repos är experiment, prototyper för verkliga uppdrag, eller små verktyg för familj och föreningar.
 
 ## Hör av dig
 
