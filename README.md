@@ -43,5 +43,4 @@ De pinnade repona är valda för att tillsammans visa det jag jobbar med, inte f
 
 ## Hör av dig
 
-- [whois.johanlindengard.com](https://whois.johanlindengard.com)
 - [LinkedIn](https://www.linkedin.com/in/johanlindengard/)
