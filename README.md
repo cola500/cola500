@@ -1,21 +1,6 @@
-<!--
-DETTA ÄR ETT UTKAST — INTE PUBLICERAT.
-
-För att aktivera profil-bio på GitHub:
-1. Skapa repot github.com/cola500/cola500 (publikt)
-2. Lägg den färdiga texten nedan som README.md i det repots root
-3. Den dyker upp överst på github.com/cola500 inom någon minut
-
-Layoutval i utkastet:
-- Inga emojis i rubriker (matchar din ton i README:s)
-- Tre korta sektioner: vem, hur jag jobbar, vad du kan se här
-- "Pinned highlights" guidar besökaren i vilken ordning de ska titta
-- Avslutar med kontaktväg (whois.johanlindengard.com)
--->
-
 # Johan Lindengard
 
-Senior IT-konsult som skapar riktning i komplexa system genom hypotesdrivna experiment där AI är en aktiv medarbetare, inte ett verktyg.
+Jag är en senior IT-konsult som skapar riktning i komplexa system genom hypotesdrivna experiment där AI är en aktiv medarbetare, inte ett verktyg.
 
 Bakgrund i **Release Train Engineering, teknisk projektledning, systems thinking och förändringsledning**, på senare tid utforskat hur AI förändrar hur team lär, prototypar och fattar beslut.
 
@@ -41,6 +26,6 @@ De pinnade repona är valda för att tillsammans visa det jag jobbar med, inte f
 
 Övriga repos är experiment, prototyper för verkliga uppdrag, eller små verktyg för familj och föreningar.
 
-## Hör av dig
+## Har du frågor eller funderingar? Hör av dig
 
 - [LinkedIn](https://www.linkedin.com/in/johan-lindengard/)
