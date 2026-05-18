@@ -26,6 +26,6 @@ De pinnade repona är valda för att tillsammans visa det jag jobbar med, inte f
 
 Övriga repos är experiment, prototyper för verkliga uppdrag, eller små verktyg för familj och föreningar.
 
-## Har du frågor eller funderingar? Hör av dig
+## Har du frågor eller funderingar? Hör av dig!
 
 - [LinkedIn](https://www.linkedin.com/in/johan-lindengard/)
