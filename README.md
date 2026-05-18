@@ -2,7 +2,7 @@
 
 Jag är en senior IT-konsult som skapar riktning i komplexa system genom hypotesdrivna experiment där AI är en aktiv medarbetare, inte ett verktyg.
 
-Bakgrund i **Release Train Engineering, teknisk projektledning, systems thinking och förändringsledning**, på senare tid utforskat hur AI förändrar hur team lär, prototypar och fattar beslut.
+Bakgrund i **Release Train Engineering, teknisk projektledning, systems thinking och förändringsledning**, på senare tid har jag utforskat hur AI förändrar hur team lär, prototypar och fattar beslut.
 
 ## Hur jag jobbar
 
